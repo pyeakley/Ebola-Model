@@ -1,3 +1,5 @@
+This model was written in NetLogo and R
+
 ODD
 
 Purpose and patterns
